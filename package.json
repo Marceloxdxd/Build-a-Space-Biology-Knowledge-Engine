@@ -2,6 +2,7 @@
   "name": "nasa-research-assistant",
   "version": "1.0.0",
   "description": "AI-powered research tool for NASA space biology papers using Gemini API",
+  "homepage": "https://marceloxdxd.github.io/Build-a-Space-Biology-Knowledge-Engine",
   "repository": {
     "type": "git",
     "url": "https://github.com/Marceloxdxd/Build-a-Space-Biology-Knowledge-Engine.git"
@@ -38,7 +39,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -69,6 +72,7 @@
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@types/react-syntax-highlighter": "^15.5.13",
+    "gh-pages": "^6.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
   },
