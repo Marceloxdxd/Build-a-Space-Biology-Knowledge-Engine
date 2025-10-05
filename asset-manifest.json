@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Build-a-Space-Biology-Knowledge-Engine/static/css/main.cf672095.css",
+    "main.js": "/Build-a-Space-Biology-Knowledge-Engine/static/js/main.b5cc082d.js",
+    "static/js/610.a5608f85.chunk.js": "/Build-a-Space-Biology-Knowledge-Engine/static/js/610.a5608f85.chunk.js",
+    "static/js/453.2c42b809.chunk.js": "/Build-a-Space-Biology-Knowledge-Engine/static/js/453.2c42b809.chunk.js",
+    "index.html": "/Build-a-Space-Biology-Knowledge-Engine/index.html",
+    "main.cf672095.css.map": "/Build-a-Space-Biology-Knowledge-Engine/static/css/main.cf672095.css.map",
+    "main.b5cc082d.js.map": "/Build-a-Space-Biology-Knowledge-Engine/static/js/main.b5cc082d.js.map",
+    "610.a5608f85.chunk.js.map": "/Build-a-Space-Biology-Knowledge-Engine/static/js/610.a5608f85.chunk.js.map",
+    "453.2c42b809.chunk.js.map": "/Build-a-Space-Biology-Knowledge-Engine/static/js/453.2c42b809.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf672095.css",
+    "static/js/main.b5cc082d.js"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "articles": [
+    {
+      "title": "Mice in Bion-M 1 space mission: training and selection",
+      "year": "2014",
+      "keywords": [
+        "After",
+        "hiatus",
+        "Russia",
+        "resumed",
+        "program"
+      ],
+      "authors": [
+        "Alexander Andreev-Andrievskiy",
+        "Anfisa Popova",
+        "Richard Boyle",
+        "Jeffrey Alberts",
+        "Boris Shenkman"
+      ],
+      "abstract": "After a 16-year hiatus, Russia has resumed its program of biomedical research in space, with the successful 30-day flight of the Bion-M 1 biosatellite (April 19–May 19, 2013). The principal species for biomedical research in this project was the mouse. This paper presents an overview of the scientific goals, the experimental design and the mouse training/selection program. The aim of mice experiments in the Bion-M 1 project was to elucidate cellular and molecular mechanisms, underlying the adaptation of key physiological systems to long-term exposure in microgravity. The studies with mice combined in vivo measurements, both in flight and post-flight (including continuous blood pressure measurement), with extensive in vitro studies carried out shortly after return of the mice and in the end of recovery study. Male C57/BL6 mice group housed in space habitats were flown aboard the Bion-M 1 biosatellite, or remained on ground in the control experiment that replicated environmental and housing conditions in the spacecraft. Vivarium control groups were used to account for housing effects and possible seasonal differences. Mice training included the co-adaptation in housing groups and mice adaptation to paste food diet. The measures taken to co-adapt aggressive male mice in housing groups and the peculiarities of “space” paste food are described. The training program for mice designated for in vivo studies was broader and included behavioral/functional test battery and continuous behavioral measurements in the home-cage. The results of the preliminary tests were used for the selection of homogenous groups. After the flight, mice were in good condition for biomedical studies and displayed signs of pronounced disadaptation to Earth's gravity. The outcomes of the training program for the mice welfare are discussed. We conclude that our training program was effective and that male mice can be successfully employed in space biomedical research.",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136787/"
+    },
+    {
+      "title": "Microgravity induces pelvic bone loss through osteoclastic activity, osteocytic osteolysis, and osteoblastic cell cycle inhibition by CDKN1a/p21",
+      "year": "2013",
+      "keywords": [
+        "dynamically",
+        "remodeled",
+        "tissue",
+        "requires",
+        "gravity"
+      ],
+      "authors": [
+        "Elizabeth A Blaber",
+        "Natalya Dvorochkin",
+        "Chialing Lee",
+        "Joshua S Alwood",
+        "Rukhsana Yousuf"
+      ],
+      "abstract": "Bone is a dynamically remodeled tissue that requires gravity-mediated mechanical stimulation for maintenance of mineral content and structure. Homeostasis in bone occurs through a balance in the activities and signaling of osteoclasts, osteoblasts, and osteocytes, as well as proliferation and differentiation of their stem cell progenitors. Microgravity and unloading are known to cause osteoclast-mediated bone resorption; however, we hypothesize that osteocytic osteolysis, and cell cycle arrest during osteogenesis may also contribute to bone loss in space. To test this possibility, we exposed 16-week-old female C57BL/6J mice (n = 8) to microgravity for 15-days on the STS-131 space shuttle mission. Analysis of the pelvis by µCT shows decreases in bone volume fraction (BV/TV) of 6.29%, and bone thickness of 11.91%. TRAP-positive osteoclast-covered trabecular bone surfaces also increased in microgravity by 170% (p = 0.004), indicating osteoclastic bone degeneration. High-resolution X-ray nanoCT studies revealed signs of lacunar osteolysis, including increases in cross-sectional area (+17%, p = 0.022), perimeter (+14%, p = 0.008), and canalicular diameter (+6%, p = 0.037). Expression of matrix metalloproteinases (MMP) 1, 3, and 10 in bone, as measured by RT-qPCR, was also up-regulated in microgravity (+12.94, +2.98 and +16.85 fold respectively, p<0.01), with MMP10 localized to osteocytes, and consistent with induction of osteocytic osteolysis. Furthermore, expression of CDKN1a/p21 in bone increased 3.31 fold (p<0.01), and was localized to osteoblasts, possibly inhibiting the cell cycle during tissue regeneration as well as conferring apoptosis resistance to these cells. Finally the apoptosis inducer Trp53 was down-regulated by −1.54 fold (p<0.01), possibly associated with the quiescent survival-promoting function of CDKN1a/p21. In conclusion, our findings identify the pelvic and femoral region of the mouse skeleton as an active site of rapid bone loss in microgravity, and indicate that this loss is not limited to osteoclastic degradation. Therefore, this study offers new evidence for microgravity-induced osteocytic osteolysis, and CDKN1a/p21-mediated osteogenic cell cycle arrest.",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630201/"
+    },
+    {
+      "title": "Stem Cell Health and Tissue Regeneration in Microgravity",
+      "year": "2025",
+      "keywords": [
+        "Microgravity",
+        "defined",
+        "minimal",
+        "gravitational",
+        "forces"
+      ],
+      "authors": [
+        "Nelson Adolfo López Garzón",
+        "María Virginia Pinzón-Fernández",
+        "Jhan S Saavedra T",
+        "Humberto A Nati-Castillo",
+        "Marlon Arias-Intriago"
+      ],
+      "abstract": "Microgravity, defined by minimal gravitational forces, represents a unique environment that profoundly influences biological systems, including human cells. This review examines the effects of microgravity on biological processes and their implications for human health. Microgravity significantly impacts the immune system by disrupting key mechanisms, such as T cell activation, cytokine production, and macrophage differentiation, leading to increased susceptibility to infections. In cancer biology, it promotes the formation of spheroids in cancer stem cells and thyroid cancer cells, which closely mimic in vivo tumor dynamics, providing novel insights for oncology research. Additionally, microgravity enhances tissue regeneration by modulating critical pathways, including Hippo and PI3K-Akt, thereby improving stem cell differentiation into hematopoietic and cardiomyocyte lineages. At the organ level, microgravity induces notable changes in hepatic metabolism, endothelial function, and bone mechanotransduction, contributing to lipid dysregulation, vascular remodeling, and accelerated bone loss. Notably, cardiomyocytes derived from human pluripotent stem cells and cultured under microgravity exhibit enhanced mitochondrial biogenesis, improved calcium handling, and advanced structural maturation, including increased sarcomere length and nuclear eccentricity. These advancements enable the development of functional cardiomyocytes, presenting promising therapeutic opportunities for treating cardiac diseases, such as myocardial infarctions. These findings underscore the dual implications of microgravity for space medicine and terrestrial health. They highlight its potential to drive advances in regenerative therapies, oncology, and immunological interventions. Continued research into the biological effects of microgravity is essential for protecting astronaut health during prolonged space missions and fostering biomedical innovations with transformative applications on Earth.\nKeywords: microgravity, tissue effects, immune system, cardiomyocytes, cancer biology, human health",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11988870/"
+    },
+    {
+      "title": "Microgravity Reduces the Differentiation and Regenerative Potential of Embryonic Stem Cells",
+      "year": "2021",
+      "keywords": [
+        "Therapeutic",
+        "effects",
+        "adult",
+        "transplantations",
+        "limited"
+      ],
+      "authors": [
+        "Takanobu Mashiko",
+        "Koji Kanayama",
+        "Natsumi Saito",
+        "Takako Shirado",
+        "Rintaro Asahi"
+      ],
+      "abstract": "Therapeutic effects of adult stem-cell transplantations are limited by poor cell-retention in target organs, and a reduced potential for optimal cell differentiation compared to embryonic stem cells. However, contemporary studies have indicated heterogeneity within adult stem-cell pools, and a novel culturing technique may address these limitations by selecting those for cell proliferation which are highly functional. Here, we report the preservation of stemness in human adipose-derived stem cells (hASCs) by using microgravity conditions combined with microspheres in a stirred suspension. The cells were bound to microspheres (100−300 μm) and cultured using a wave-stirring shaker. One-week cultures using polystyrene and collagen microspheres increased the proportions of SSEA-3(+) hASCs 4.4- and 4.3-fold (2.7- and 2.9-fold increases in their numbers), respectively, compared to normal culture conditions. These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF), and had improved abilities for proliferation, colony formation, network formation, and multiple-mesenchymal differentiation. We believe that this novel culturing method may further enhance regenerative therapies using hASCs.\nKeywords: adipose-derived stem cell, microgravity culture, polystyrene microsphere, collagen microsphere, multilineage-differentiating stress-enduring cell",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998608/"
+    },
+    {
+      "title": "Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station",
+      "year": "2017",
+      "keywords": [
+        "International",
+        "Space",
+        "Station",
+        "National",
+        "Laboratory"
+      ],
+      "authors": [
+        "Macarena Parra",
+        "Jimmy Jung",
+        "Travis D Boone",
+        "Luan Tran",
+        "Elizabeth A Blaber"
+      ],
+      "abstract": "The International Space Station (ISS) National Laboratory is dedicated to studying the effects of space on life and physical systems, and to developing new science and technologies for space exploration. A key aspect of achieving these goals is to operate the ISS National Lab more like an Earth-based laboratory, conducting complex end-to-end experimentation, not limited to simple microgravity exposure. Towards that end NASA developed a novel suite of molecular biology laboratory tools, reagents, and methods, named WetLab-2, uniquely designed to operate in microgravity, and to process biological samples for real-time gene expression analysis on-orbit. This includes a novel fluidic RNA Sample Preparation Module and fluid transfer devices, all-in-one lyophilized PCR assays, centrifuge, and a real-time PCR thermal cycler. Here we describe the results from the WetLab-2 validation experiments conducted in microgravity during ISS increment 47/SPX-8. Specifically, quantitative PCR was performed on a concentration series of DNA calibration standards, and Reverse Transcriptase-quantitative PCR was conducted on RNA extracted and purified on-orbit from frozen Escherichia coli and mouse liver tissue. Cycle threshold (Ct) values and PCR efficiencies obtained on-orbit from DNA standards were similar to Earth (1 g) controls. Also, on-orbit multiplex analysis of gene expression from bacterial cells and mammalian tissue RNA samples was successfully conducted in about 3 h, with data transmitted within 2 h of experiment completion. Thermal cycling in microgravity resulted in the trapping of gas bubbles inside septa cap assay tubes, causing small but measurable increases in Ct curve noise and variability. Bubble formation was successfully suppressed in a rapid follow-up on-orbit experiment using standard caps to pressurize PCR tubes and reduce gas release during heating cycles. The WetLab-2 facility now provides a novel operational on-orbit research capability for molecular biology and demonstrates the feasibility of more complex wet bench experiments in the ISS National Lab environment.",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587110/"
+    },
+    {
+      "title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart",
+      "year": "2021",
+      "keywords": [
+        "Spaceflight",
+        "causes",
+        "cardiovascular",
+        "changes",
+        "microgravity"
+      ],
+      "authors": [
+        "Akhilesh Kumar",
+        "Candice G T Tahimic",
+        "Eduardo A C Almeida",
+        "Ruth K Globus"
+      ],
+      "abstract": "Spaceflight causes cardiovascular changes due to microgravity-induced redistribution of body fluids and musculoskeletal unloading. Cardiac deconditioning and atrophy on Earth are associated with altered Trp53 and oxidative stress-related pathways, but the effects of spaceflight on cardiac changes at the molecular level are less understood. We tested the hypothesis that spaceflight alters the expression of key genes related to stress response pathways, which may contribute to cardiovascular deconditioning during extended spaceflight. Mice were exposed to spaceflight for 15 days or maintained on Earth (ground control). Ventricle tissue was harvested starting ~3 h post-landing. We measured expression of select genes implicated in oxidative stress pathways and Trp53 signaling by quantitative PCR. Cardiac expression levels of 37 of 168 genes tested were altered after spaceflight. Spaceflight downregulated transcription factor, Nfe2l2 (Nrf2), upregulated Nox1 and downregulated Ptgs2, suggesting a persistent increase in oxidative stress-related target genes. Spaceflight also substantially upregulated Cdkn1a (p21) and cell cycle/apoptosis-related gene Myc, and downregulated the inflammatory response gene Tnf. There were no changes in apoptosis-related genes such as Trp53. Spaceflight altered the expression of genes regulating redox balance, cell cycle and senescence in cardiac tissue of mice. Thus, spaceflight may contribute to cardiac dysfunction due to oxidative stress.\nKeywords: spaceflight, microgravity, heart, gene expression, oxidative stress, Nfe2l2, NADPH oxidase, Ptgs2, Cdkn1a, Myc",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8396460/"
+    },
+    {
+      "title": "Dose- and Ion-Dependent Effects in the Oxidative Stress Response to Space-Like Radiation Exposure in the Skeletal System",
+      "year": "2017",
+      "keywords": [
+        "Space",
+        "radiation",
+        "skeletal",
+        "health",
+        "during"
+      ],
+      "authors": [
+        "Joshua S Alwood",
+        "Luan H Tran",
+        "Ann-Sofie Schreurs",
+        "Yasaman Shirazi-Fard",
+        "Akhilesh Kumar"
+      ],
+      "abstract": "Space radiation may pose a risk to skeletal health during subsequent aging. Irradiation acutely stimulates bone remodeling in mice, although the long-term influence of space radiation on bone-forming potential (osteoblastogenesis) and possible adaptive mechanisms are not well understood. We hypothesized that ionizing radiation impairs osteoblastogenesis in an ion-type specific manner, with low doses capable of modulating expression of redox-related genes. 16-weeks old, male, C57BL6/J mice were exposed to low linear-energy-transfer (LET) protons (150 MeV/n) or high-LET 56Fe ions (600 MeV/n) using either low (5 or 10 cGy) or high (50 or 200 cGy) doses at NASA’s Space Radiation Lab. Five weeks or one year after irradiation, tissues were harvested and analyzed by microcomputed tomography for cancellous microarchitecture and cortical geometry. Marrow-derived, adherent cells were grown under osteoblastogenic culture conditions. Cell lysates were analyzed by RT-PCR during the proliferative or mineralizing phase of growth, and differentiation was analyzed by imaging mineralized nodules. As expected, a high dose (200 cGy), but not lower doses, of either 56Fe or protons caused a loss of cancellous bone volume/total volume. Marrow cells produced mineralized nodules ex vivo regardless of radiation type or dose; 56Fe (200 cGy) inhibited osteoblastogenesis by more than 90% (5 weeks and 1 year post-IR). After 5 weeks, irradiation (protons or 56Fe) caused few changes in gene expression levels during osteoblastogenesis, although a high dose 56Fe (200 cGy) increased Catalase and Gadd45. The addition of exogenous superoxide dismutase (SOD) protected marrow-derived osteoprogenitors from the damaging effects of exposure to low-LET (137Cs γ) when irradiated in vitro, but had limited protective effects on high-LET 56Fe-exposed cells. In sum, either protons or 56Fe at a relatively high dose (200 cGy) caused persistent bone loss, whereas only high-LET 56Fe increased redox-related gene expression, albeit to a limited extent, and inhibited osteoblastogenesis. Doses below 50 cGy did not elicit widespread responses in any parameter measured. We conclude that high-LET irradiation at 200 cGy impaired osteoblastogenesis and regulated steady-state gene expression of select redox-related genes during osteoblastogenesis, which may contribute to persistent bone loss.\nKeywords: cancellous bone, osteoblast, ionizing radiation, spaceflight, oxidative stress",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666799/"
+    },
+    {
+      "title": "From the bench to exploration medicine: NASA life sciences translational research for human exploration and habitation missions.",
+      "year": "2017",
+      "keywords": [
+        "Space",
+        "Biology",
+        "Human",
+        "Program",
+        "entities"
+      ],
+      "authors": [
+        "Joshua S Alwood",
+        "April E Ronca",
+        "Richard C Mains",
+        "Mark J Shelhamer",
+        "Jeffrey D Smith"
+      ],
+      "abstract": "NASA’s Space Biology and Human Research Program entities have recently spearheaded communications both internally and externally to coordinate the agency’s translational research efforts. In this paper, we strongly advocate for translational research at NASA, provide recent examples of NASA sponsored early-stage translational research, and discuss options for a path forward. Our overall objective is to help in stimulating a collaborative research across multiple disciplines and entities that, working together, will more effectively and more rapidly achieve NASA’s goals for human spaceflight.",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460236/"
+    },
+    {
+      "title": "High-precision method for cyclic loading of small-animal vertebrae to assess bone quality.",
+      "year": "2018",
+      "keywords": [
+        "potentially",
+        "important",
+        "quality",
+        "characteristic",
+        "response"
+      ],
+      "authors": [
+        "Megan M Pendleton",
+        "Saghi Sadoughi",
+        "Alfred Li",
+        "Grace D O'Connell",
+        "Joshua S Alwood"
+      ],
+      "abstract": "One potentially important bone quality characteristic is the response of bone to cyclic (repetitive) mechanical loading. In small animals, such as in rats and mice, cyclic loading experiments are particularly challenging to perform in a precise manner due to the small size of the bones and difficult-to-eliminate machine compliance. Addressing this issue, we developed a precise method for ex vivo cyclic compressive loading of isolated mouse vertebral bodies. The method has three key characteristics: 3D-printed support jigs for machining plano-parallel surfaces of the tiny vertebrae; pivotable loading platens to ensure uniform contact and loading of specimen surfaces; and specimen-specific micro-CT-based finite element analysis to measure stiffness to prescribe force levels that produce the same specified level of strain for all test specimens. To demonstrate utility, we measured fatigue life for three groups (n = 5–6 per group) of L5 vertebrae of C57BL/6J male mice, comparing our new method against two methods commonly used in the literature. We found reduced scatter of the mechanical behavior for this new method compared to the literature methods. In particular, for a controlled level of strain, the standard deviation of the measured fatigue life was up to 5-fold lower for the new method (F-ratio = 4.9; p < 0.01). The improved precision for this new method for biomechanical testing of small-animal vertebrae may help elucidate aspects of bone quality.\nKeywords: Fatigue, Bone mechanics, Mouse, Vertebrae, Bone quality",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6222041/"
+    },
+    {
+      "title": "Effects of ex vivo ionizing radiation on collagen structure and whole-bone mechanical properties of mouse vertebrae.",
+      "year": "2019",
+      "keywords": [
+        "become",
+        "brittle",
+        "exposed",
+        "ionizing",
+        "radiation"
+      ],
+      "authors": [
+        "Megan M Pendleton",
+        "Shannon R Emerzian",
+        "Jennifer Liu",
+        "Simon Y Tang",
+        "Grace D O’Connell"
+      ],
+      "abstract": "Bone can become brittle when exposed to ionizing radiation across a wide range of clinically relevant doses that span from radiotherapy (accumulative 50 Gy) to sterilization (~35,000 Gy). While irradiation-induced embrittlement has been attributed to changes in the collagen molecular structure, the relative role of collagen fragmentation versus non-enzymatic collagen crosslinking remains unclear. To better understand the effects of radiation on the bone material without cellular activity, we conducted an ex vivo x-ray radiation experiment on excised mouse lumbar vertebrae. Spinal tissue from twenty-week old, female, C57BL/6J mice were randomly assigned to a single x-ray radiation dose of either 0 (control), 50, 1,000, 17,000, or 35,000 Gy. Measurements were made for collagen fragmentation, non-enzymatic collagen crosslinking, and both monotonic and cyclic-loading compressive mechanical properties. We found that the group differences for mechanical properties were more consistent with those for collagen fragmentation than for non-enzymatic collagen crosslinking. Monotonic strength at 17,000 and 35,000 Gy was lower than that of the control by 50% and 73% respectively, (p < 0.001) but at 50 and 1,000 Gy was not different than the control. Consistent with those trends, collagen fragmentation only occurred at 17,000 and 35,000 Gy. By contrast, non-enzymatic collagen crosslinking was greater than control for all radiation doses (p < 0.001). All results were consistent both for monotonic and cyclic loading conditions. We conclude that the reductions in bone compressive monotonic strength and fatigue life due to ex vivo ionizing radiation are more likely caused by fragmentation of the collagen backbone than any increases in non-enzymatic collagen crosslinks.\nKeywords: ionizing radiation, bone strength, fatigue, collagen, sterilization, bone-graft",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6813909/"
+    }
+  ]
+}
